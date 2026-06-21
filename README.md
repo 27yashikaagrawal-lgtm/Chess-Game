@@ -26,10 +26,7 @@ Templating	EJS
 Version Control	Git & GitHub
 ⚙️ Installation & Setup
 
-Clone the repository
-
-git clone https://github.com/shreyansh2005a/chess-game.git
-cd chess-game
+ 
 
 
 Install dependencies
